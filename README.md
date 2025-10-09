@@ -1,5 +1,7 @@
 # A hybrid predictive and prescriptive modelling framework for long-term mental healthcare workforce planning
 
+DOI - [10.1080/01605682.2025.2573825](10.1080/01605682.2025.2573825)
+
 ## Authors
 
 - **Harsha Chamara Hewage**  
